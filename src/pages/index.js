@@ -92,7 +92,7 @@ const IndexPage = ({ location }) => (
         <Flex>
           <Box width={3/5}>
             <h2>Met Demodam kun je innoveren</h2>
-            <p>Juist doordat er straks al een stevige basis staat, kun je daar makkelijk op voortborduren. Ter illustratie: stel je wilt een dienst ontwikkelen over verschillende overheden heen, bijvoorbeeld een klantreis waarbij je als burger in een vloeiend proces zowel je geboorteaangifte kunt doen (bij je gemeente) als kinderbijslag kunt aanvragen (bij de Belastingdienst). Dat is nu technisch en organisatorisch nog heel lastig, maar met Demodam staan er straks al een zaaksysteem, een BRP systeem en NLX voor je klaar, zodat je gelijk een vliegende start kunt maken.</p>
+            <p>Juist doordat er straks al een stevige basis staat, kun je daar makkelijk op voortborduren. Ter illustratie: stel je wilt een dienst ontwikkelen over verschillende overheden heen, bijvoorbeeld een klantreis waarbij je als burger in een vloeiend proces zowel je geboorteaangifte kunt doen (bij je gemeente) als kinderdagopvangtoeslag kunt aanvragen (bij de Belastingdienst). Dat is nu technisch en organisatorisch nog heel lastig, maar met Demodam staan er straks al een zaaksysteem, een BRP systeem en NLX voor je klaar, zodat je gelijk een vliegende start kunt maken.</p>
           </Box>
           <Box width={2/5}>
             <ResponsiveImage src={dashboardImage} alt="Illustratie van persoon met tablet waarop grafieken getoond worden" />
