@@ -60,8 +60,8 @@ const IndexPage = ({ location }) => (
             <ResponsiveImage src={authorizationImage} alt="Illustratie van desktop computer en mobiele applictie met een slot" />
           </Box>
           <Box width={3/5}>
-            <h2>Op Demodam laten we zien wat er beschikbaar is</h2>
-            <p>Op Demodam.nl kun je zien hoe digitale diensten werken voor burgers en ambtenaren. Het maakt tastbaar wat je met Common Ground kunt.</p>
+            <h2>Op Demodam.nl laten we zien wat er beschikbaar is</h2>
+            <p>Op <a href="https://demodam.nl/">Demodam.nl</a> kun je zien hoe digitale diensten werken voor burgers en ambtenaren. Het maakt tastbaar wat je met Common Ground kunt.</p>
           </Box>
         </Flex>
       </Section>
@@ -106,12 +106,20 @@ const IndexPage = ({ location }) => (
     <Background backgroundColor="#f5f5f6">
       <Container>
         <Section>
-          <Heading align="center" fontSize="2rem">Roadmap</Heading>
+          <Heading align="center" fontSize="2rem">Tijdlijn</Heading>
         </Section>
       </Container>
     </Background>
     <Container>
       <Timeline>
+
+        <Timeline.Container align="right">
+            <Timeline.Content>
+                <Span fontSize="0.9rem">Juli 2021</Span>
+                <Heading as="h3" fontSize="1.5rem">Innovatiesubsidie toegekend</Heading>
+                <p>Het ministerie van Binnenlandse Zaken en Koninkrijksrelaties heeft Demodam een subsidie van 150.000 euro toegekend.</p>
+            </Timeline.Content>
+        </Timeline.Container>
 
         <Timeline.Container align="left">
             <Timeline.Content>
