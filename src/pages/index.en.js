@@ -106,19 +106,6 @@ const IndexPage = ({ location }) => (
         </Flex>
       </Section>
 
-<!---
-      <Section>
-        <Flex>
-          <Box width={2/5}>
-            <ResponsiveImage src={integrationImage} alt="Abstracte illustratie met cirkels die verbinding maakt met andere figuren" />
-          </Box>
-          <Box width={3/5}>
-            <h2>TODO: Demodam value/benefit statement 5</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-          </Box>
-        </Flex>
-      </Section>
---->
 
     </Container>
     <Background backgroundColor="#f5f5f6">
