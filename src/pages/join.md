@@ -62,3 +62,6 @@ Kerncomponenten zijn componenten op het cluster die worden onderhouden door de t
 - Decidim (https://decidim.org/)
 
 Deze organisaties hoeven zich niet los te registreren
+
+## Hulp nodig?
+Kom je er niet uit? [Word lid van de Common Ground Slack](https://join.slack.com/t/samenorganiseren/shared_invite/zt-dex1d7sk-wy11sKYWCF0qQYjJHSMW5Q) en sluit je aan bij de #Demodam-kanalen. Anderen helpen je daar graag verder. 
