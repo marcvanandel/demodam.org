@@ -60,7 +60,7 @@ De huidige leden van het kernteam zijn:
 * [Ruben van der Linde](https://www.linkedin.com/in/rubenlinde) (ook [Technisch actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#technisch-actie-team) leiden)
 * [Joeri Bekker](https://www.linkedin.com/in/joeribekker/)
 * [Lazo Bozarof](https://www.linkedin.com/in/lazobozarov/)
-* Vacature: [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD# communicatie-actie-team) teamleider
+* Vacature: [Communicatie-actieteam](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#communicatie-actie-team) teamleider
 * Vacature: [User Centricity](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD#user-centricity-action-team) teamleider
 
 ### Manier van werken
