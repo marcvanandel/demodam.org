@@ -23,7 +23,7 @@ Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worde
 Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het kerteam en de community.
 
 ## Sluit je aan bij Demodam!
-Al overtuigd? Mooi! Ontdek [hoe je kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
+Al overtuigd? Mooi! Ontdek [hoe je kunt deelnemen en bijdragen](https://demodam.org/contributing).
 
 ## Demodam kernteam
 
