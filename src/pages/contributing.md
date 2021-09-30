@@ -19,7 +19,7 @@ Schiet een issue of pull request in, enz. Bekijk de [issues met het label Help w
 Voel je vrij om te bloggen, tweeten, posten over Demodam wanneer je maar wilt! We doen dit samen. Er is altijd wat te doen. Bekijk het [Communicatiebord](https://github.com/demodam/demodam.org/projects/1) om te zien of je ergens mee kunt helpen. Of voeg een issue toe als je een goed idee hebt.
 
 ## Publiceer Common Ground-componenten op Demodam
-Demodam is een showcase-website voor open source-componenten. Neem contact op met het technische actieteam via Slack of Github als je je componenten op Demodam wilt publiceren.
+Demodam is een showcase-website voor open source-componenten. Volg deze [stappen om componenten op Demodam te publiceren](https://github.com/demodam/demodam.org/blob/main/src/pages/join.md). Dat kan tijdens een hackathon, maar ook daarbuiten.  
 
 ## Neem deel aan een actieteam
 
