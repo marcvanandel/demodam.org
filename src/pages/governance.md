@@ -4,7 +4,7 @@ template: "default"
 
 # CONCEPT: Governance voor Demodam
 
-Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worden. De eerste versie van de governance wordt vastgesteld na de eerste keer dat het kernteam bijeen komt. 
+Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worden. De eerste versie van de governance wordt vastgesteld na de eerste keer dat het kernteam bijeen komt.
 
 ## Doelen van Demodam
 
@@ -23,7 +23,7 @@ Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worde
 Door middel van codebase stewardship ondersteunt de [Foundation for Public Code](https://publiccode.net/) het kerteam en de community.
 
 ## Sluit je aan bij Demodam!
-Al overtuigd? Mooi! Ontdek [hoe je kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD).
+Al overtuigd? Mooi! Ontdek [hoe je kunt deelnemen en bijdragen](https://github.com/demodam/demodam.org/blob/develop/CONTRIBUTING.MD)
 
 ## Demodam kernteam
 
