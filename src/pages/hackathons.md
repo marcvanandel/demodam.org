@@ -8,16 +8,19 @@ template: "default"
 In deze hackathon voegen we weer meer producten diensten toe aan demodam.nl en we innoveren verder op basis van wat er al staat.
 
 ### Highlights van deze hackathon:
-* Meerdere teams van leveranciers en overheden hacken weer mee.
-* Het team Notificaties van VNG Realisatie host een eigen hackathon in dezelfde ruimte, waarbij ook rijksoverheden en hun leveranciers meedoen. 
-* NL Design System houdt tijdens deze week een Onboarding Week, waarbij teams snel op vlieghoogte gebracht worden. Is er straks een theme switcher op Demodam.nl, waarbij je met een druk op de knop een andere huisstijl kunt laten zien? 
-* Tijdens de hackathon wordt doorontwikkelbudget toegekend vanuit het innovatiebudget van het ministerie van BZK, voor die ideeën die het meeste toevoegen aan de Common Ground community. 
-* Nu ook met sessies voor niet-nerds! Mede georganiseerd door VNG Realisatie.  
+* Meerdere **teams van leveranciers en overheden** hacken weer mee. Iedereen is welkom om aan te sluiten. 
+* Het team **Notificaties van VNG Realisatie** host een eigen hackathon in dezelfde ruimte, waarbij ook rijksoverheden en hun leveranciers meedoen. 
+* **NL Design System** houdt tijdens deze week een Onboarding Week, waarbij teams snel op vlieghoogte gebracht worden. Is er straks een theme switcher op Demodam.nl, waarbij je met een druk op de knop een andere huisstijl kunt laten zien? 
+* Tijdens de hackathon wordt **doorontwikkelbudget toegekend vanuit het innovatiebudget** van het ministerie van BZK, voor die ideeën die het meeste toevoegen aan de Common Ground community. 
+* Ook met **sessies voor een breed publiek**! Mede georganiseerd door VNG Realisatie. Houd deze pagina in de gaten voor het programma. 
+* We kijken naar de mogelijkheden voor een **fysieke locatie**, je weet wel, net als vroeger! 
 
 Lees meer over de [doelen en praktische informatie](https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.p). 
 
-### Programma
+### Globaal programma (in de maak)
 Het programma is nog in de maak, en daar kun je zelf aan bijdragen. [Voeg hier je sessie toe](https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.gf55fcc07b8_0_12).  
+* Ma-do. Hackenhackenhacken, met tussendoor sessies voor een breder publiek. 
+* **Vrijdag is Demodam-Demodag**, en laten we de resultaten zien. Ongetwijfeld gevolgd door een borrel. Hou het programma in de gaten. 
 
 ### Meedoen? 
 * [Schrijf je hier in](https://www.meetup.com/Code-For-NL/events/281202873/) voor de hackaton.
