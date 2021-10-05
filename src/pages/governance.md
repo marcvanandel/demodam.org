@@ -15,7 +15,7 @@ Dit document is een conceptversie en hier kunnen geen rechten aan ontleend worde
 
 ## Demodam-principes
 
-* Onze community is **gastvrij en respectvol** zoals vermeld in onze CODE_OF_CONDUCT.md. Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
+* Onze community is **gastvrij en respectvol** zoals vermeld in onze [code of conduct](CODE_OF_CONDUCT.md). Als community willen we het nieuwe leden van de community gemakkelijk maken om deel te nemen, ongeacht achtergrond en kennisniveau.
 * Wij zijn **Transparant en toegankelijk**. Wijzigingen in de Demodam-organisatie, Demodam-coderepositories en Demodam-gerelateerde activiteiten worden openbaar gedaan.
 * Ideeën en bijdragen worden **geaccepteerd op basis van hun verdienste** en in overeenstemming met de projectdoelstellingen en ontwerpprincipes.
 * Demodam is **open source**.
