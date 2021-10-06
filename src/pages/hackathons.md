@@ -19,8 +19,8 @@ Lees meer over de [doelen en praktische informatie](https://docs.google.com/pres
 
 ### Globaal programma (in de maak)
 Het programma is nog in de maak, en daar kun je zelf aan bijdragen. [Voeg hier je sessie toe](https://docs.google.com/presentation/d/1SJgPPEyf5I2tFjAzE0tRWqG64BC0LicFAnRUYPT4YQ4/edit#slide=id.gf55fcc07b8_0_12).  
-* Ma-vr. Hackenhackenhacken, met tussendoor sessies voor een breder publiek. 
-* ** Donderdagmiddag ** Common Ground cases. 
+* **Ma-vr**: Hackenhackenhacken, met tussendoor sessies voor een breder publiek. 
+* **Donderdagmiddag**: Common Ground cases (20 minuten per case).  
 * **Vrijdag is Demodam-Demodag**, en laten we de resultaten zien. Ongetwijfeld gevolgd door een borrel. Hou het programma in de gaten. 
 
 ### Meedoen? 
